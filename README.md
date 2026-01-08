@@ -1,3 +1,5 @@
-# DustDevil-Partial
-The C++ Code for Dust Devil, as of the Gold Submission
-Not including the rest of the Source or Content files for the game
+# DustDevil
+The Source Files for Dust Devil, as of the Gold Submission
+Including All Unreal Engine Files
+
+C++ Specific files are under the Source Folder
