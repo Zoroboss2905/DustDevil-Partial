@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"DustDevil": "UnrealEditor-DustDevil.dll",
+		"LoadingScreenModule": "UnrealEditor-LoadingScreenModule.dll"
+	}
+}
